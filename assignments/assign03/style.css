@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    
+}
+a{
+    text-decoration: none;
+}
+ul li{
+    list-style: none;}
+ .top-bar .bg { 
+    border-radius: 20%; 
+        padding: 3px ;
+        background-color: mediumseagreen;
+    
+    }
+.head-btn a{
+    padding:3px;
+}
+.navbar-brand img{
+    width: 200px;
+}
+ .navbar ul li a {
+    padding: 7px 16px;
+    display: inline-block;
+
+} 
+
+.navbar .active,
+.navbar ul li a:hover {
+    background-color: royalblue;
+    border-radius: 25px;
+    text-decoration: none;
+    color: #fff !important;
+
+}
+.dropdown:hover>.dropdown-menu{
+display:block;
+
+}
+.green{
+    color:rgb(0,255,0);
+}
+.blue{
+    color: #0000ff;
+}
+.counter{
+    
+    padding: 70px 0px 70px 0px;
+}
+.seprator{
+    height: 2px;
+    width: 50px;
+    background-color: green;
+    display: block;
+}
+.mission marquee{
+height: 200px;
+}
+.gallery img{
+    width: 225px;
+}
+.end-content{
+    margin-top: 150px;
+}
+.text-theme-colored{
+    color: #427900 !important;
+}
+.bg-i{
+    padding: 6px;
+    background-color: royalblue;
+    border-radius: 45%;
+}

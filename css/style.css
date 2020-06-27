@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.bg-custom{
+    background-image: url(../image/bgimage.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text-theme{
+    color: darkslategrey;
+}
+@media with screen and (max width:600px;){
+    .profile{
+        width: 10px;
+    }
+} 
