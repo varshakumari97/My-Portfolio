@@ -1,0 +1,21 @@
+[debug] [2020-07-11T06:30:14.689Z] ----------------------------------------------------------------------
+[debug] [2020-07-11T06:30:14.693Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\khet\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-07-11T06:30:14.693Z] CLI Version:   8.0.3
+[debug] [2020-07-11T06:30:14.693Z] Platform:      win32
+[debug] [2020-07-11T06:30:14.693Z] Node Version:  v12.16.2
+[debug] [2020-07-11T06:30:14.695Z] Time:          Sat Jul 11 2020 11:30:14 GMT+0500 (Pakistan Standard Time)
+[debug] [2020-07-11T06:30:14.696Z] ----------------------------------------------------------------------
+[debug] [2020-07-11T06:30:14.696Z] 
+[debug] [2020-07-11T06:30:14.739Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-07-11T06:30:14.740Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\khet\OneDrive\Desktop\web and mobile course\portfolio2\assignments\stop watch
+
